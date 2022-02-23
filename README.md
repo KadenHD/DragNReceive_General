@@ -10,3 +10,7 @@
 - Rédiger certaines parties finales
 - Faire des tests unitaires ?
 - mise en production
+## Cahier des charges Mobile
+- Le commencer
+## Cahier de revue
+- répertorier tout ce que j'ai appris
