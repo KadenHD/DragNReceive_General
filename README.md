@@ -5,7 +5,7 @@
 ## Cahier des charges Web
 - Revoir les maquettes
 - Rédiger certaines parties finales
-- Faire des tests unitaires api et web
+- Rédaction et screens des tests unitaires api et web
 - mise en production
 ## Cahier des charges Mobile
 - Le commencer
