@@ -4,11 +4,12 @@
 # TO-DO
 ## Cahier des charges Web
 - Revoir les maquettes
-- Rédiger certaines parties finales
+- rédaction technique
 - Rédaction et screens des tests unitaires api et web
-- mise en production
+- mise en production (optionnel)
 ## Cahier des charges Mobile
 - Le commencer
 ## Cahier de revue
-- répertorier tout ce que j'ai appris
+- Répertorier tout ce que j'ai appris
+- Faire un portfolio web (html css js) et le mettre sur ovh + sous-domaine et ftp
 - Voir le document tableau de synthèse
