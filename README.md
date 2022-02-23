@@ -8,7 +8,7 @@
 - revoir le modèle de données
 - Revoir les maquettes
 - Rédiger certaines parties finales
-- Faire des tests unitaires ?
+- Faire des tests unitaires api et web
 - mise en production
 ## Cahier des charges Mobile
 - Le commencer
