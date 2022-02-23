@@ -15,5 +15,4 @@
 - Le commencer
 ## Cahier de revue
 - répertorier tout ce que j'ai appris
-
-- EMPÊCHER LES ADMINS DE SUPPRIMER LES BOUTIQUES, ONLY CONSULTING
+- Voir le document tableau de synthèse
