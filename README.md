@@ -7,6 +7,7 @@
 - Revoir le MCD
 - revoir le modèle de données
 - Revoir les maquettes
+- Revoir la budgétisation du projet
 - Rédiger certaines parties finales
 - Faire des tests unitaires api et web
 - mise en production
@@ -14,3 +15,5 @@
 - Le commencer
 ## Cahier de revue
 - répertorier tout ce que j'ai appris
+
+- EMPÊCHER LES ADMINS DE SUPPRIMER LES BOUTIQUES, ONLY CONSULTING
