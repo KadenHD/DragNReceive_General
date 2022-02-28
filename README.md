@@ -1,3 +1,6 @@
+https://github.com/KadenHD/DragNReceive_API/
+https://github.com/KadenHD/DragNReceive_WebClient/
+https://github.com/KadenHD/DragNReceive_Mobile/
 # DragNReceive_General
  All files of the DragNReceive Project
 
