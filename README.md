@@ -15,6 +15,3 @@
 
 ## Cahier des charges Mobile
 - Le commencer
-
-## Rapport d'activité
-- 
