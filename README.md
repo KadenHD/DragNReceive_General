@@ -7,9 +7,11 @@
 # TO-DO
 
 ## Cahier des charges Web
+- Rédaction Droits d'administration technique
 - Rédaction estimations (Gantt prévisionnel)
-- Rédaction cahier technique (Droits d'administration, Environnement technologique)
 - Rédaction indicateurs de performance (Gantt à jour + coût global à jour)
+
+- rajouter quelques tests de validation (web) et unitaire (api)
 
 ## Cahier des charges Mobile
 - Le commencer
