@@ -7,6 +7,8 @@
 # TO-DO
 
 ## Cahier des charges Web
+- spécifier dans (mcd, données, droit d'administration etc le reset et mailing)
+
 - Rédaction Droits d'administration technique
 - Rédaction estimations (Gantt prévisionnel)
 - Rédaction indicateurs de performance (Gantt à jour + coût global à jour)
