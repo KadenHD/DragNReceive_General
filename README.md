@@ -8,6 +8,7 @@
 
 ## Cahier des charges Web
 - spécifier dans (mcd, données, droit d'administration etc le reset et mailing)
+- rajouter dans (mcd, données, droit d'administration etc le shopId dans order)
 
 - Rédaction Droits d'administration technique
 - Rédaction estimations (Gantt prévisionnel)
