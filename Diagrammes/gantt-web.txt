@@ -23,3 +23,6 @@ Web :
 
 19/02 - 27/02
 - shop management / all roles pages / profile management
+
+01/03 - ...
+- password reset pages / Orders pages
