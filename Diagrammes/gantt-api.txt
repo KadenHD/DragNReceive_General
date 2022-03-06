@@ -21,4 +21,5 @@ API :
 - Logics on controllers / permissions validations / formats
 
 27/01 - xxx
-- little modifications according to web and mobile
+- little modifications according to web and mobile / units tests 
+- add a mailer and mails functions / modifications for the front
