@@ -7,12 +7,11 @@
 # TO-DO
 
 ## Cahier des charges Web
-- spécifier dans (mcd, données, droit d'administration etc le reset et mailing)
-- rajouter dans (mcd, données, droit d'administration etc le shopId dans order)
-
 - Rédaction Droits d'administration technique
 - Rédaction estimations (Gantt prévisionnel)
 - Rédaction indicateurs de performance (Gantt à jour + coût global à jour)
+- Rajouter des tests de validations (mdp oublié, suppression de boutique etc....)
+- Rajouter des tests unitaires ? (optionnel)
 
 - rajouter quelques tests de validation (web) et unitaire (api)
 
