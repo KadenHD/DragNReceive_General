@@ -20,6 +20,6 @@ API :
 12/01 - 24/01
 - Logics on controllers / permissions validations / formats
 
-27/01 - xxx
-- little modifications according to web and mobile / units tests 
+27/01 - 14/03
+- modifications for orders etc... according to web / units tests 
 - add a mailer and mails functions / modifications for the front
