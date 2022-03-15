@@ -1,0 +1,51 @@
+/*
+** PROMEO PROJECT, 2020
+** promeo.css
+** File description:
+** 
+*/
+
+RedTxt{
+    color: red;
+}
+
+BlueTxt{
+    color: blue;
+    
+}
+
+body{
+    background-color: #FFFFFF;
+}
+
+p{
+    color: black;
+}
+
+h2{
+    font-size: 16;
+    color: #0DB3F9;
+}
+
+header{
+    background-color: #FF2D00;
+    height: 260pxl;
+}
+
+
+/*<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="style.css" />
+<title>Premiers tests du CSS</title>
+</head>
+
+<body>
+<h1>Mon super site</h1>
+
+<p class="introduction">Bonjour et bienvenue sur mon site !</p>
+<p>Pour le moment, mon site est un peu <em>vide</em>. Patientez encore un peu !</p>
+                       </body>
+                       </html>
+*/
