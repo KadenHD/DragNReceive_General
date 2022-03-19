@@ -26,3 +26,6 @@ Web :
 
 01/03 - 14/03
 - password reset pages / Orders pages
+
+14/03 - 19/03
+- unit test of web with puppeteer
