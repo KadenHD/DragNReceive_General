@@ -23,3 +23,6 @@ API :
 27/01 - 14/03
 - modifications for orders etc... according to web / units tests 
 - add a mailer and mails functions / modifications for the front
+
+14/03 - 19/03
+- unit test of web with puppeteer
