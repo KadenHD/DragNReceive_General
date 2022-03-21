@@ -7,9 +7,8 @@
 # TO-DO
 
 ## Cahier des charges Web
-- Rédaction Droits d'administration technique
-- Rédaction estimations (Gantt prévisionnel)
-- Rédaction indicateurs de performance (Gantt à jour + coût global à jour)
+- Rédaction estimations (Gantt prévisionnel, prix horaire)
+- Rédaction indicateurs de performance (coût horaire)
 
 ## Cahier des charges Mobile
 - Le commencer
