@@ -8,7 +8,6 @@
 
 ## Cahier des charges Web
 - Rédaction estimations (Gantt prévisionnel, prix horaire)
-- Rédaction indicateurs de performance (coût horaire)
 
 ## Cahier des charges Mobile
 - Le commencer
