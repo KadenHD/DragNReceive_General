@@ -7,7 +7,7 @@
 # TO-DO
 
 ## Cahier des charges Web
-- Rédaction estimations (Gantt prévisionnel, prix horaire)
+- 
 
 ## Cahier des charges Mobile
 - Le commencer
