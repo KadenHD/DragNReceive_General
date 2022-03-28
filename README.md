@@ -10,4 +10,5 @@
 - 
 
 ## Cahier des charges Mobile
-- Le commencer
+- faire la typographie
+- 
