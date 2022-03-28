@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="dragnreceive_webclient_estimation" company="" webLink="" view-date="2021-03-01" view-index="0" gantt-divider-location="448" resource-divider-location="300" version="3.1.3103" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="dragnreceive_webclient_estimation" company="" webLink="" view-date="2021-10-01" view-index="0" gantt-divider-location="448" resource-divider-location="300" version="3.1.3103" locale="fr_FR">
     <description/>
     <view zooming-state="default:9" id="gantt-chart">
         <field id="tpd3" name="Nom" width="231" order="0"/>
@@ -36,16 +36,16 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" name="Développement de l'API" color="#ffff66" shape="0,1,0,1,0,0,1,0,0,1,0,1,1,0,0,0" meeting="false" start="2021-05-03" duration="50" complete="0" thirdDate="2022-03-24" thirdDate-constraint="0" expand="true">
-            <depend id="1" type="2" difference="0" hardness="Strong"/>
-        </task>
-        <task id="1" name="Développement du site web" color="#33cc00" shape="1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1" meeting="false" start="2021-07-12" duration="50" complete="0" thirdDate="2022-03-24" thirdDate-constraint="0" expand="true"/>
-        <task id="2" name="Rédaction du cahier des charges" color="#9999ff" shape="1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0" meeting="false" start="2021-04-13" duration="14" complete="0" thirdDate="2022-03-24" thirdDate-constraint="0" expand="true">
-            <depend id="0" type="2" difference="0" hardness="Strong"/>
-        </task>
-        <task id="3" name="Analyse du besoin" color="#3300ff" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-03-15" duration="21" complete="0" thirdDate="2022-03-24" thirdDate-constraint="0" expand="true">
+        <task id="3" name="Analyse du besoin" color="#3300ff" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-10-04" duration="21" complete="0" thirdDate="2022-03-24" thirdDate-constraint="0" expand="true">
             <depend id="2" type="2" difference="0" hardness="Strong"/>
         </task>
+        <task id="2" name="Rédaction du cahier des charges" color="#9999ff" shape="1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0" meeting="false" start="2021-11-02" duration="14" complete="0" thirdDate="2022-03-24" thirdDate-constraint="0" expand="true">
+            <depend id="0" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="0" name="Développement de l'API" color="#ffff66" shape="0,1,0,1,0,0,1,0,0,1,0,1,1,0,0,0" meeting="false" start="2021-11-22" duration="50" complete="0" thirdDate="2022-03-24" thirdDate-constraint="0" expand="true">
+            <depend id="1" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="1" name="Développement du site web" color="#33cc00" shape="1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1" meeting="false" start="2022-01-31" duration="50" complete="0" thirdDate="2022-03-24" thirdDate-constraint="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
