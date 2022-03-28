@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="DragN'Receive_WebClient" company="Dev'iliser" webLink="" view-date="2021-10-25" view-index="0" gantt-divider-location="473" resource-divider-location="300" version="3.1.3103" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="DragN'Receive_WebClient" company="Dev'iliser" webLink="" view-date="2021-10-04" view-index="0" gantt-divider-location="473" resource-divider-location="300" version="3.1.3103" locale="fr_FR">
     <description/>
     <view zooming-state="default:7" id="gantt-chart">
         <field id="tpd3" name="Nom" width="240" order="0"/>
@@ -36,6 +36,73 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
+        <task id="106" name="AUTRES" color="#006666" meeting="false" start="2021-10-04" duration="120" complete="0" thirdDate="2021-10-04" thirdDate-constraint="0" expand="true">
+            <task id="109" name="Analyse et rédaction du besoin" color="#8cb6ce" meeting="false" start="2021-10-04" duration="26" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
+                <depend id="114" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="114" name="Benchmarks / Logos" color="#8cb6ce" meeting="false" start="2021-11-09" duration="1" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
+                <depend id="117" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="117" name="Diagrammes" color="#8cb6ce" meeting="false" start="2021-11-10" duration="5" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
+                <depend id="120" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="120" name="MCD" color="#8cb6ce" meeting="false" start="2021-11-17" duration="3" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
+                <depend id="121" type="2" difference="0" hardness="Rubber"/>
+            </task>
+            <task id="121" name="Dictionnaire de données" color="#8cb6ce" meeting="false" start="2022-01-11" duration="1" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
+                <depend id="125" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="125" name="Droits d'Administration" color="#8cb6ce" meeting="false" start="2022-01-12" duration="3" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
+                <depend id="127" type="2" difference="0" hardness="Strong"/>
+                <depend id="129" type="2" difference="0" hardness="Rubber"/>
+            </task>
+            <task id="127" name="Modifications / rédactions" color="#8cb6ce" meeting="false" start="2022-01-17" duration="45" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true"/>
+            <task id="129" name="Maquettes" color="#8cb6ce" meeting="false" start="2022-01-31" duration="1" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="49" name="API" color="#666600" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-10-26" duration="86" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
+            <task id="50" name="Initialisation de l'API" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-10-26" duration="1" complete="0" thirdDate="2022-03-21" thirdDate-constraint="0" expand="true">
+                <depend id="51" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="51" name="DB, routing et modèles" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-10-27" duration="3" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Liaison en base de données
+Mise en place des routes
+Conception des modèles Sequelize]]>
+                </notes>
+                <depend id="52" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="52" name="Authentification" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-11-01" duration="23" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Systèmes d'authentification
+JWT Token
+Hash de token]]>
+                </notes>
+                <depend id="53" type="2" difference="0" hardness="Rubber"/>
+            </task>
+            <task id="53" name="Faker et Controllers" color="#ffff66" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-12-02" duration="4" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Utilisation de Faker pour faire rentrer de fausses données
+Conception des controllers]]>
+                </notes>
+                <depend id="54" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="54" name="Stockage fichier" color="#ffff66" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-12-08" duration="5" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Réalisation des permissions et vérifications par des middlewares
+Réception de fichier et stockage sur le serveur]]>
+                </notes>
+                <depend id="55" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="55" name="Controllers, permissions, Validations" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-12-15" duration="21" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Réalisation des permissions validations etc...
+Sur les différents formats et requêtes de l'API]]>
+                </notes>
+                <depend id="56" type="2" difference="0" hardness="Rubber"/>
+                <depend id="75" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="56" name="Mailer / modifications / unit tests" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2022-02-08" duration="11" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true"/>
+        </task>
         <task id="62" name="WEB" color="#336600" meeting="false" start="2021-12-13" duration="59" complete="0" thirdDate="2021-12-13" thirdDate-constraint="0" expand="true">
             <task id="72" name="Initialisation du site web" color="#009900" shape="1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1" meeting="false" start="2021-12-13" duration="10" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
                 <notes>
@@ -90,73 +157,6 @@ Vérification des roles, restriction des accès aux pages]]>
                     <![CDATA[Réalisation des tests unitaires avec puppeteer]]>
                 </notes>
             </task>
-        </task>
-        <task id="49" name="API" color="#666600" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-10-26" duration="86" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
-            <task id="50" name="Initialisation de l'API" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-10-26" duration="1" complete="0" thirdDate="2022-03-21" thirdDate-constraint="0" expand="true">
-                <depend id="51" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="51" name="DB, routing et modèles" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-10-27" duration="3" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
-                <notes>
-                    <![CDATA[Liaison en base de données
-Mise en place des routes
-Conception des modèles Sequelize]]>
-                </notes>
-                <depend id="52" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="52" name="Authentification" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-11-01" duration="23" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
-                <notes>
-                    <![CDATA[Systèmes d'authentification
-JWT Token
-Hash de token]]>
-                </notes>
-                <depend id="53" type="2" difference="0" hardness="Rubber"/>
-            </task>
-            <task id="53" name="Faker et Controllers" color="#ffff66" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-12-02" duration="4" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
-                <notes>
-                    <![CDATA[Utilisation de Faker pour faire rentrer de fausses données
-Conception des controllers]]>
-                </notes>
-                <depend id="54" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="54" name="Stockage fichier" color="#ffff66" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-12-08" duration="5" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
-                <notes>
-                    <![CDATA[Réalisation des permissions et vérifications par des middlewares
-Réception de fichier et stockage sur le serveur]]>
-                </notes>
-                <depend id="55" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="55" name="Controllers, permissions, Validations" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2021-12-15" duration="21" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true">
-                <notes>
-                    <![CDATA[Réalisation des permissions validations etc...
-Sur les différents formats et requêtes de l'API]]>
-                </notes>
-                <depend id="56" type="2" difference="0" hardness="Rubber"/>
-                <depend id="75" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="56" name="Mailer / modifications / unit tests" color="#ffff33" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2022-02-08" duration="11" complete="0" thirdDate="2021-10-26" thirdDate-constraint="0" expand="true"/>
-        </task>
-        <task id="106" name="AUTRES" color="#006666" meeting="false" start="2021-10-04" duration="120" complete="0" thirdDate="2021-10-04" thirdDate-constraint="0" expand="true">
-            <task id="109" name="Analyse et rédaction du besoin" color="#8cb6ce" meeting="false" start="2021-10-04" duration="26" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
-                <depend id="114" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="114" name="Benchmarks / Logos" color="#8cb6ce" meeting="false" start="2021-11-09" duration="1" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
-                <depend id="117" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="117" name="Diagrammes" color="#8cb6ce" meeting="false" start="2021-11-10" duration="5" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
-                <depend id="120" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="120" name="MCD" color="#8cb6ce" meeting="false" start="2021-11-17" duration="3" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
-                <depend id="121" type="2" difference="0" hardness="Rubber"/>
-            </task>
-            <task id="121" name="Dictionnaire de données" color="#8cb6ce" meeting="false" start="2022-01-11" duration="1" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
-                <depend id="125" type="2" difference="0" hardness="Strong"/>
-            </task>
-            <task id="125" name="Droits d'Administration" color="#8cb6ce" meeting="false" start="2022-01-12" duration="3" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true">
-                <depend id="127" type="2" difference="0" hardness="Strong"/>
-                <depend id="129" type="2" difference="0" hardness="Rubber"/>
-            </task>
-            <task id="129" name="Maquettes" color="#8cb6ce" meeting="false" start="2022-01-31" duration="1" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true"/>
-            <task id="127" name="Modifications / rédactions" color="#8cb6ce" meeting="false" start="2022-01-17" duration="45" complete="0" thirdDate="2021-10-25" thirdDate-constraint="0" expand="true"/>
         </task>
     </tasks>
     <resources/>
