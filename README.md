@@ -10,13 +10,7 @@
 - 
 
 ## Cahier des charges Mobile
-- Benchmark langages (https://www.spinxdigital.com/blog/mobile-app-development-languages)
-- Benchmark outils mobile (
-	https://academind.com/tutorials/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa
-	https://www.icicletech.com/blog/react-native-flutter-ionic-xamarin-nativescript
-)
 - Plannification et bugdétisation
-- Cas d'utilisations
 
 - Rajouter au dictionnaire de donnée, mcd, droits des funcs et maquettes => le mobile token
 - test unitaire des funcs mobile
