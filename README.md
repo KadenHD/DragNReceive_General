@@ -1,20 +1,22 @@
 [DragN'Recevie - API](https://github.com/KadenHD/DragNReceive_API/)<br>
 [DragN'Recevie - WebClient](https://github.com/KadenHD/DragNReceive_WebClient/)<br>
 [DragN'Recevie - Mobile](https://github.com/KadenHD/DragNReceive_Mobile/)
+
 # DragNReceive_General
+
  All files of the DragNReceive Project
 
 # TO-DO
 
+- 
+
 ## Cahier des charges Web
+
 - 
 
 ## Cahier des charges Mobile
-- Plannification et bugdétisation
 
-- Rajouter au dictionnaire de donnée, mcd, droits des funcs et maquettes => le mobile token
-- test unitaire des funcs mobile
-- test de validation mobile
+- Détailler l'annulation de commande
 - Plannification et budgétisation définitive
 - Point fort et problemes
 - Conclusion
