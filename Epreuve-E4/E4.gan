@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-05-01" view-index="0" gantt-divider-location="300" resource-divider-location="300" version="3.1.3103" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2019-11-01" view-index="0" gantt-divider-location="300" resource-divider-location="300" version="3.1.3103" locale="fr_FR">
     <description/>
     <view zooming-state="default:11" id="gantt-chart">
         <field id="tpd3" name="Nom" width="167" order="0"/>
@@ -112,10 +112,20 @@
                 </notes>
             </task>
         </task>
-        <task id="40" name="Projets professionnels" color="#6b3270" meeting="false" start="2021-09-15" duration="11" complete="0" thirdDate="2021-09-15" thirdDate-constraint="0" expand="true">
+        <task id="40" name="Projets professionnels" color="#6b3270" meeting="false" start="2020-03-02" duration="413" complete="0" thirdDate="2021-09-15" thirdDate-constraint="0" expand="true">
             <task id="42" name="Calendrier de disponibilités" color="#8cb6ce" meeting="false" start="2021-09-15" duration="11" complete="0" thirdDate="2020-05-01" thirdDate-constraint="0" expand="true">
                 <notes>
                     <![CDATA[Réalisation d'un calendrier de disponibilités demandé par mon employeur.]]>
+                </notes>
+            </task>
+            <task id="44" name="Projet Safran - Easy Breath" color="#8cb6ce" meeting="false" start="2020-04-24" duration="5" complete="0" thirdDate="2020-05-01" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Participation à la recherche, dans le cadre du projet de Safran d'adaptation des masques Décathlon easyBreath pour les patients atteint du COVID19.]]>
+                </notes>
+            </task>
+            <task id="46" name="Réalisation de Stages - UTeam" color="#8cb6ce" meeting="false" start="2020-03-02" duration="44" complete="0" thirdDate="2020-05-01" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Réalisation de deux mois de stages chez UTeam au pôle informatique.]]>
                 </notes>
             </task>
         </task>
