@@ -16,7 +16,4 @@
 
 ## Cahier des charges Mobile
 
-- Détailler l'annulation de commande
-- Plannification et budgétisation définitive
-- Point fort et problemes
-- Conclusion
+- Dans les tests de validation, montrer la commande + pdf
