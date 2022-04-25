@@ -16,4 +16,4 @@
 
 ## Cahier des charges Mobile
 
-- Dans les tests de validation, montrer la commande + pdf
+- 
