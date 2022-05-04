@@ -112,7 +112,7 @@
                 </notes>
             </task>
         </task>
-        <task id="40" name="Projets professionnels" color="#6b3270" meeting="false" start="2020-03-02" duration="413" complete="0" thirdDate="2021-09-15" thirdDate-constraint="0" expand="true">
+        <task id="40" name="Projets professionnels" color="#6b3270" meeting="false" start="2019-11-01" duration="499" complete="0" thirdDate="2021-09-15" thirdDate-constraint="0" expand="true">
             <task id="42" name="Calendrier de disponibilités" color="#8cb6ce" meeting="false" start="2021-09-15" duration="11" complete="0" thirdDate="2020-05-01" thirdDate-constraint="0" expand="true">
                 <notes>
                     <![CDATA[Réalisation d'un calendrier de disponibilités demandé par mon employeur.]]>
@@ -126,6 +126,18 @@
             <task id="46" name="Réalisation de Stages - UTeam" color="#8cb6ce" meeting="false" start="2020-03-02" duration="44" complete="0" thirdDate="2020-05-01" thirdDate-constraint="0" expand="true">
                 <notes>
                     <![CDATA[Réalisation de deux mois de stages chez UTeam au pôle informatique.]]>
+                </notes>
+            </task>
+            <task id="49" name="Support Informatique" color="#8cb6ce" meeting="false" start="2019-11-01" duration="1" complete="0" thirdDate="2019-11-01" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Rôle du support informatique, par la réalisation de divers documentations 
+    et benchmarks ainsi que la mise à disposition et installation de matériel informatique auprès du personnel.]]>
+                </notes>
+            </task>
+            <task id="51" name="Ordre de mission" color="#8cb6ce" meeting="false" start="2021-05-19" duration="39" complete="0" thirdDate="2019-11-01" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Développement et Hébergement d’un logiciel d’entreprise de génération d’ordre de mission mis à disposition des associés et salariés. 
+    Génération de fichier Excel.]]>
                 </notes>
             </task>
         </task>
