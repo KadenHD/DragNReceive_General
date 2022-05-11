@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2019-09-01" view-index="0" gantt-divider-location="518" resource-divider-location="300" version="3.1.3103" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-02-01" view-index="0" gantt-divider-location="518" resource-divider-location="300" version="3.1.3103" locale="fr_FR">
     <description/>
     <view zooming-state="default:11" id="gantt-chart">
         <field id="tpd3" name="Nom" width="317" order="0"/>
         <field id="tpd4" name="Date de début" width="107" order="1"/>
         <field id="tpd5" name="Date de fin" width="90" order="2"/>
         <option id="color.recent">
-            <![CDATA[#338251 #3a4f78 #6b3270 #bc4f4f]]>
+            <![CDATA[#3a4f78 #338251 #6b3270 #bc4f4f]]>
         </option>
     </view>
     <view id="resource-table">
@@ -54,14 +54,9 @@
                     <![CDATA[Réalisation du premier projet scolaire en groupe de 5, reproduction de la page d'accueil de Proméo en HTML]]>
                 </notes>
             </task>
-            <task id="13" name="Cahier des charges - Twitch" color="#3a4f78" meeting="false" start="2020-09-09" duration="8" complete="0" thirdDate="2020-08-03" thirdDate-constraint="0" expand="true">
+            <task id="13" name="Réalisation Technique - Cahier des charges" color="#3a4f78" meeting="false" start="2020-09-09" duration="96" complete="0" thirdDate="2020-08-03" thirdDate-constraint="0" expand="true">
                 <notes>
-                    <![CDATA[Rédaction d'un cahier des charges cherchant à trouver des nouvelles fonctionnalités novatrice au site de Streaming Twitch.]]>
-                </notes>
-            </task>
-            <task id="16" name="Cahier des charges - Aergia" color="#3a4f78" meeting="false" start="2020-09-21" duration="3" complete="0" thirdDate="2020-08-03" thirdDate-constraint="0" expand="true">
-                <notes>
-                    <![CDATA[Rédaction d'un cahier des charges cherchant à faciliter la gestion de congés via un logiciel automatisant les demandes.]]>
+                    <![CDATA[Apprentissage et conception de divers cahiers des charges d'entreprise fictive ou non.]]>
                 </notes>
             </task>
             <task id="18" name="Site de vente en ligne - Vélès" color="#3a4f78" meeting="false" start="2020-09-29" duration="25" complete="0" thirdDate="2020-08-03" thirdDate-constraint="0" expand="true">
@@ -79,11 +74,6 @@
                     <![CDATA[Analyse de la demande d'un hôtel via son cahier des charges, puis conception du logiciel de gestion des chambres et du personnel.]]>
                 </notes>
             </task>
-            <task id="24" name="Cahier des charges - Osix" color="#3a4f78" meeting="false" start="2021-01-20" duration="1" complete="0" thirdDate="2020-08-03" thirdDate-constraint="0" expand="true">
-                <notes>
-                    <![CDATA[Rédaction d'un cahier des charges cherchant à faciliter la gestion de projets en cascade.]]>
-                </notes>
-            </task>
             <task id="26" name="Site Web en Symfony - The Blog" color="#3a4f78" meeting="false" start="2021-02-15" duration="142" complete="0" thirdDate="2020-08-03" thirdDate-constraint="0" expand="true">
                 <notes>
                     <![CDATA[Réalisation d'un site web en Symfony pour la gestion des blogs de Proméo ainsi que l'analyse des besoins des salariés de la division Langues, ADBLangues.]]>
@@ -92,6 +82,12 @@
             <task id="28" name="Apprentissage POO/Java - miniRPG" color="#3a4f78" meeting="false" start="2021-08-24" duration="6" complete="0" thirdDate="2020-07-01" thirdDate-constraint="0" expand="true">
                 <notes>
                     <![CDATA[Utilisation de la programmation orientée objet pour faire un mini rpg via console.]]>
+                </notes>
+            </task>
+            <task id="56" name="Apprentissage Informatique - OpenClassroom" color="#3a4f78" meeting="false" start="2021-01-18" duration="140" complete="0" thirdDate="2020-02-03" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[Apprentissage de diverses notions liées à l'informatique par le biais de vidéos et questionnaires 
+    sur le site de formation Open Classroom.]]>
                 </notes>
             </task>
         </task>
